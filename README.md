@@ -5,9 +5,9 @@ $ pkg install git<br>
 $ pkg install python<br>
 $ pip2 install requests<br>
 $ pip2 install mechanize<br>
-$ git clone https://github.com/root-ardeka/fbvip<br>
+$ git clone https://github.com/root-ardeka/fbvip.py<br>
 $ cd fbvip<br>
-$ python2 ardeka.py
+$ python2 fbvip.py
 
 
 
